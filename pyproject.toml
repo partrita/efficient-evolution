@@ -1,0 +1,18 @@
+[project]
+name = "efficient-evolution"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anndata>=0.11.4",
+    "biopython>=1.85",
+    "fair-esm>=2.0.0",
+    "hmmer>=3.4.0.2",
+    "neutcurve>=2.1.0",
+    "numpy>=2.2.6",
+    "sapiens>=1.1.0",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "torch>=2.7.0",
+]
